@@ -1,0 +1,36 @@
+HTML(HYPERTEXT MARKUP LANGUAGE): Html is a client-side scripting language ; 
+used for  development of interactive webpages ; later to be connected together 
+to form a multifunctional website. A basic html document is has the different functional 
+tags as the principle building blocks; like <html> ; <head> ; <body> ; <title> ; <a> ; 
+<img> ; <form> ; <table> ; <ol> ; <ul> ; <dl> ; <br> ; <script> ; <style> etc. 
+These tags constitute a minor part of the building blocks to build a web site. 
+CSS(CASCADING STYLE SHEETS): Css acts as ornaments to basic html codes.
+The main job of CSS is to add style to the webpages built using html, 
+such that they look attractive for the user even giving the user a vision of the result wanted. 
+Since Showman ship is a dire requirement these days so Css is a unalienable tool to web development.
+There are 3 ways in which CSS can be applied to a html file :
+•	Inline CSS
+•	Internal CSS
+•	External CSS
+JAVASCRIPT: Javascript is also a client side scripting language just like HTML and CSS.
+The main work of javascript is to execute high level logical operations required in a 
+website be it mathematical or relational. For that purpose it has been encased with several
+built in methods working as tools to realise the logics. Even  the creation of animated pages
+for educational purposes can be achieved. There are two ways of applying javascript to a html document :
+•	Internal javascript
+•	External javascript
+PHP(HYPER TEXT PREPROCESSOR):  PHP is an opensource server side scripting language used to create dynamic 
+webpages along with attachment to a database. It is used in several e-commerce sites like magento and woo commerce;
+also in content management system  like wordpress amd drupal; and it comes in several frame works like symphony and 
+Laravel ; it was created by Danish Canadian programmer RASMUS LERDORF.
+XML(EXTENSIBLE MARKUP LANGUAGE): XML is a high end scripting language containing several libraries to work with regular
+sets of data stored in any database ; it’s a important tool to build interactive UI of android applications. In promoting
+AI it plays as a side checker of Python to get secondary access backup to data bases as well.
+BOOTSTRAP: It is a server side scripting language and basically taken to be as a child of  CSS.
+This is used to create UI interfaces similar to that of XML as used in Android applications.
+ JSON(JAVASCRIPT OBJECT NOTATIONS): It’s a basic structural based format.
+ It is commonly used for transmitting data in web applications 
+AJAX: AJAX is a technique for creating fast and dynamic web pages.
+It allows web pages to be updated asynchronously by exchanging small 
+amounts of data with the server behind the scenes. This means that it is
+possible to update parts of a web page, without reloading the whole page.
